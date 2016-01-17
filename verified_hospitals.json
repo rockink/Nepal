@@ -1,0 +1,55 @@
+[{
+    "name"            : "Kanti Bal Hospital",
+    "address"         : "Maharajgunj, Kathmandu",
+    "location"        : {
+                            "lat":27.734720,
+                            "lon":85.328440
+                        },
+    "phoneNumbers"    : "97714411140",
+    "type"            : "Hospital"
+
+},
+{
+    "name"            : "Teaching Hospital",
+    "address"         : "Maharajgunj, Kathmandu",
+    "location"        : {
+                            "lat":27.735983,
+                            "lon":85.330210
+                        },
+    "phoneNumbers"    : "97714410911",
+    "type"            : "Hospital"
+
+},
+{
+    "name"            : "Model Hospital",
+    "address"         : "Pradarshani Marg, Kathmandu",
+    "location"        : {
+                            "lat":27.735983,
+                            "lon":85.330210
+                        },
+    "phoneNumbers"    : "97714411140",
+    "type"            : "Hospital"
+
+},
+{
+    "name"    : "Kist Medical College Teaching Hospital",
+    "address" : "Imadol, Lalitpur",
+    "location"        : {
+                            "lat":27.664769,
+                            "lon":85.330210
+                        },
+    "phoneNumbers"   : "97715201682",
+    "type"    : "Hospital"
+
+},
+{
+    "name"    : "Red Cross Society",
+    "address" : "Katimati, Kathmandu",
+    "location"        : {
+                            "lat":27.699346,
+                            "lon":85.290385
+                        },
+    "phoneNumbers"   : "97714272761",
+    "type"    : "Blood Bank"
+
+}]

@@ -52,4 +52,16 @@
     "phoneNumbers"   : "97714272761",
     "type"    : "Blood Bank"
 
-}]
+},{
+    "name"    : "Civil Service Hospital",
+    "address" : "Min Bhawan, Kathmandu",
+    "location"        : {
+                            "lat":27.687106,
+                            "lon":85.338453
+                        },
+    "phoneNumbers"   : "97714107000",
+    "type"    : "Hospital"
+
+}
+
+]
